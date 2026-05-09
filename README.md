@@ -7,11 +7,9 @@
 </p>
 
 <p align="center">
-  <img src="https://share.google/kzYv4mT84YXQjatss" width="800"/>
+  <img src="https://share.google/kzYv4mT84YXQjatss" width="400"/>
 </p>
 ---
-A clean, safe, fully-featured WhatsApp bot built on Baileys.
-No obfuscated code. No external downloads. 100% yours.
 
 ---
 
