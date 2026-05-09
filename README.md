@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <img src="files/mystery in the smoke.png" width="400"/>
+  <img src="files.mystery in the smoke.png" width="400"/>
 </p>
 ---
 
